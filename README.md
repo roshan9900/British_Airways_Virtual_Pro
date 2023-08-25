@@ -1,4 +1,4 @@
-# Customer Behaviour Prediction
+# Customer Buying Behaviour Prediction
 - Scraped and analyzed 2090 reviews using Beautiful Soup, conducting preprocessing, encoding, and visualization.
 - Applied Topic Modeling, Text Classification, and Named Entity Recognition methods, achieving a 92% accuracy with Random Forest. Made a Power BI dashboard to present insights.
 - This will help the company to focus on things that are more important to customers while buying tickets or using their services.
