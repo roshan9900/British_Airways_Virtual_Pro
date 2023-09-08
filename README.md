@@ -30,6 +30,8 @@ In this project, I undertook an in-depth analysis to predict customer bookings f
 
 6. **Feature Importance Analysis**: After model training, I assessed feature importance to determine which attributes have the most significant impact on the booking decision. This analysis provided valuable insights into customer preferences and behaviors.
 
+7. Interactive BI Dashboard: To provide an interactive and insightful representation of these findings, I developed a Power BI dashboard. This dashboard featured a range of visualizations, including bar charts, line charts, pie charts making the project's insights easily accessible, comprehensible, and user-engaging.
+
 **Coclusion**:
 Beyond its specific application to predicting British Airways bookings, our project exemplifies a versatile approach that can be adapted to diverse real-world scenarios. Whether it's forecasting sales, mitigating risks, optimizing processes, or understanding customer sentiment, the principles of data preprocessing, feature engineering, and machine learning remain potent tools for data-driven decision-making.
 
